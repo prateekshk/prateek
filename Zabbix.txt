@@ -1,0 +1,4 @@
+Cent OS 7 POC 
+
+# yum -y install epel-release
+# yum install httpd php php-mysql php-ldap php-bcmath- php-mbstring php-gd php-xml php-mcrypt
